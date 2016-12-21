@@ -16,7 +16,7 @@ Add the following dependency to your composer.json file:
 {
     "require": {
 
-        "mwsimple/datetimepicker-bundle": "2.0.0"
+        "mwsimple/datetimepicker-bundle": "2.0.*"
     }
 }
 ```
