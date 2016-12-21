@@ -16,7 +16,7 @@ Add the following dependency to your composer.json file:
 {
     "require": {
 
-        "stephanecollot/datetimepicker-bundle": "dev-master"
+        "mwsimple/datetimepicker-bundle": "2.0.0"
     }
 }
 ```
@@ -24,7 +24,7 @@ Add the following dependency to your composer.json file:
 and then run
 
 ```bash
-php composer.phar update stephanecollot/datetimepicker-bundle
+php composer.phar update mwsimple/datetimepicker-bundle
 ```
 
 ### Step 2: Enable the bundle
